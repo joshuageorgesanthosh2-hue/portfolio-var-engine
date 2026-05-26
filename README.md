@@ -7,7 +7,7 @@ A quantitative risk-modeling tool built from first principles in native Python. 
 * **Matrix Transformation Ingestion:** Features a nested-loop architecture that applies user-defined decimal weights to asset price deltas, synthesizing distinct data paths into a singular portfolio return distribution.
 * **Empirical Risk Mapping:** Implements non-parametric sorting to extract precise 1-Day Value at Risk (VaR) thresholds at variable confidence parameters (e.g., 90%, 95%, 99%).
 
-## 📊 How to Run the Tool
+## How to Run the Tool
 Ensure you have the native Python `requests` module installed:
 ```bash
 pip install requests
